@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kaliswari-Profile/static/css/main.0d1e6978.css",
+    "main.js": "/Kaliswari-Profile/static/js/main.b2961298.js",
+    "static/media/profile.jpg": "/Kaliswari-Profile/static/media/profile.64c181251693f2bfc84d.jpg",
+    "index.html": "/Kaliswari-Profile/index.html",
+    "main.0d1e6978.css.map": "/Kaliswari-Profile/static/css/main.0d1e6978.css.map",
+    "main.b2961298.js.map": "/Kaliswari-Profile/static/js/main.b2961298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1e6978.css",
+    "static/js/main.b2961298.js"
+  ]
+}
